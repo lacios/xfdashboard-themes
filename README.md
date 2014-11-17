@@ -12,7 +12,3 @@ https://github.com/gmc-holle/xfdashboard
 **Important!**
 
 These themes were designed for the latest development commits of Xfdashboard.
-
-**Dark Theme**
-
-![alt tag](https://github.com/lacios/xfdashboard-themes/blob/master/screenshots/dark-theme.png)
