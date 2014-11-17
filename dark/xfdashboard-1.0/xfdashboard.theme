@@ -1,5 +1,5 @@
 [Xfdashboard Theme]
-Name=default
+Name=Dark
 Comment=Dark theme for xfdashboard
 Style=dark.css
 Layout=xfdashboard.xml
