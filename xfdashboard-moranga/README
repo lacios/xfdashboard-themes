@@ -1,0 +1,21 @@
+```
+
+Moranga theme for Xfdashboard
+=============================
+
+Description: A theme to match up with Numix red highlits.
+             "Moranga" is a kind of pumpkin.
+
+Author : Blau Araujo <blau@lacios.org>
+
+- Uses from "gnome" default icon theme: 
+
+	. view-list-symbolic
+	. view-paged-symbolic
+	. folder-saved-search-symbolic
+
+- xfadshboard.xml changed to fixed workspaces pane.
+
+- Moranga theme is licensed under the terms of GNU/GPL v.2
+
+```
