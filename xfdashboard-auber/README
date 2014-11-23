@@ -1,0 +1,18 @@
+
+Auber theme for Xfdashboard
+===========================
+
+Description: Just a aubergine highlighted theme.
+
+Author : Blau Araujo <blau@lacios.org>
+
+- Uses from "gnome" default icon theme: 
+
+	. view-list-symbolic
+	. view-paged-symbolic
+	. folder-saved-search-symbolic
+
+- xfadshboard.xml changed to fixed workspaces pane.
+
+- Auber theme is licensed under the terms of GNU/GPL v.2
+
