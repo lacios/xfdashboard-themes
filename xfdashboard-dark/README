@@ -1,5 +1,8 @@
+
 Dark theme for Xfdashboard
-==========================
+=============================
+
+Description: Just a dark blue highlighted theme.
 
 Author : Blau Araujo <blau@lacios.org>
 
@@ -11,4 +14,5 @@ Author : Blau Araujo <blau@lacios.org>
 
 - xfadshboard.xml changed to fixed workspaces pane.
 
-- Dark theme is licensed under the terms of GNU/GPL v.2
+- Moranga theme is licensed under the terms of GNU/GPL v.2
+
