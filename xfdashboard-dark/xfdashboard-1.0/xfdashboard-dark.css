@@ -56,7 +56,7 @@ XfdashboardSearchView
 
 #quicklaunch XfdashboardButton:hover
 {
-	background-fill-color: #557AAC;
+	background-fill-color: #434343;
 }
 
 XfdashboardQuicklaunch #applications-button
@@ -66,13 +66,13 @@ XfdashboardQuicklaunch #applications-button
 
 XfdashboardQuicklaunch #trash-button:drop-target
 {
-	background-fill-color: #557AAC;
+	background-fill-color: #434343;
 }
 
 .drag-actor-XfdashboardLiveWindow:drag-handle
 {
-	background-fill-color: #557AACa0;
-	outline-color: #557AACff;
+	background-fill-color: #434343a0;
+	outline-color: #434343ff;
 }
 
 #workspace-selector
@@ -88,7 +88,7 @@ XfdashboardLiveWorkspace
 
 XfdashboardLiveWorkspace:active
 {
-	outline-color: #557AAC;
+	outline-color: #434343;
 }
 
 XfdashboardScrollbar
@@ -98,12 +98,12 @@ XfdashboardScrollbar
 
 XfdashboardScrollbar:hover
 {
-	slider-color: #557AACa0;
+	slider-color: #434343a0;
 }
 
 XfdashboardScrollbar:pressed
 {
-	slider-color: #557AACff;
+	slider-color: #434343ff;
 }
 
 XfdashboardSearchView XfdashboardSearchResultContainer XfdashboardButton.result-item:hover,
@@ -121,7 +121,7 @@ XfdashboardApplicationsView XfdashboardButton:selected
 
 #view-selector XfdashboardToggleButton:toggled
 {
-	background-fill-color: #557AAC;
+	background-fill-color: #434343;
 }
 
 #searchbox.focus
@@ -140,19 +140,19 @@ XfdashboardLiveWindow
 XfdashboardWindowsView XfdashboardLiveWindow:selected,
 XfdashboardWindowsView XfdashboardLiveWindow:hover
 {
-	outline-color: #557AACff;
+	outline-color: #434343ff;
 }
 
 XfdashboardLiveWindow:selected XfdashboardButton.title
 {
-	background-fill-color: #557AACf0;
-	outline-color: #557AACff;
+	background-fill-color: #434343f0;
+	outline-color: #434343ff;
 }
 
 XfdashboardLiveWindow:hover XfdashboardButton.title
 {
-	background-fill-color: #557AACf0;
-	outline-color: #557AACff;
+	background-fill-color: #434343f0;
+	outline-color: #434343ff;
 }
 
 /* effects */
